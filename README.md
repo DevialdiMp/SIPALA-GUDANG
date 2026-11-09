@@ -20,12 +20,10 @@ SIPALA (Sistem Informasi Peminjaman Alat) adalah aplikasi berbasis web yang dira
 
 ## 🛠️ Teknologi yang Digunakan
 
-- PHP
-- Laravel 12
-- MySQL
-- Bootstrap
-- JavaScript
-- Composer
+- **Backend:** Laravel 12, PHP 8.2+, Composer
+- **Frontend:** HTML5, CSS3, Bootstrap 5, AdminLTE, JavaScript.
+- **Database:** MySQL.
+- **Tools:** Visual Studio Code, Laragon, Git, GitHub.
 
 ---
 

@@ -53,7 +53,7 @@ git clone https://github.com/DevialdiMp/SIPALA-GUDANG.git
 Masuk ke direktori project:
 
 ```bash
-cd sipala-gudang
+cd SIPALA-GUDANG
 ```
 
 ### 2. Install Dependency

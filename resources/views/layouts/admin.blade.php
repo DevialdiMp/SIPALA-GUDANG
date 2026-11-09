@@ -529,7 +529,7 @@
                     &copy; {{ date('Y') }}
                     <strong>Sistem Informasi Peminjaman Alat (SIPALA).</strong>
                 </span>
-                
+
                 <span>
                     Developed by <strong>DEVMP Solutions.</strong>
                 </span>
@@ -709,14 +709,6 @@
                     }).show();
                 }
             });
-
-            // ================= LOADING OVERLAY =================
-            function showLoading() {
-                const overlay = document.getElementById('loadingOverlay');
-                if (overlay) {
-                    overlay.style.display = 'flex';
-                }
-            }
 
             function hideLoading() {
                 const overlay = document.getElementById('loadingOverlay');
